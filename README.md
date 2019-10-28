@@ -6,9 +6,9 @@ In order to reduce their environmental footprint, people alter their behavior, s
 
 
 # Research questions
-- What are the reasons for the variations of meat consumption? Are they ethical (animals cruelty), ecological or economical?
-- Does a country situation have an impact on meat consumption?
-- Does some campaigns have an impact on meat consumption?
+- What are the reasons for the variation in meat consumption? Are they ethical (animal cruelty), ecological or economical?
+- Does country situation have an impact on meat consumption?
+- Do campaigns have an impact on meat consumption?
 
 # Dataset
 
@@ -25,11 +25,11 @@ In order to reduce their environmental footprint, people alter their behavior, s
 - [EU open data portal](http://data.europa.eu/euodp/data/dataset?sort=views_total+desc&vocab_theme=http%3A%2F%2Fpublications.europa.eu%2Fresource%2Fauthority%2Fdata-theme%2FAGRI)
 
 # A list of internal milestones up until project milestone 2
-- Find the best countries in term of datasets to make our analysis.
+- Find the best countries in terms of datasets to make our analysis.
 - Gather datasets to get the meat consumption/exportation over month or over many years.
-- Find the differents campaign or events like food intoxication with contamined meat in those countries.
-- Gather supermarkets sales datasets to get a view of the sales over the months.
-- Find a link between the consumption and the country situation.
+- Find different campaigns or events like food intoxication with contamined meat in those countries.
+- Gather supermarket sales datasets to get a view of the sales over the months.
+- Find a link between meat consumption and the country situation.
 
-# Questions for TAa
+# Questions for TA
 Add here some questions you have for us, in general or project-specific.
