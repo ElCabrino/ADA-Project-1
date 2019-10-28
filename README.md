@@ -1,10 +1,9 @@
-# Title
+﻿# Title
 
 # Abstract
-A lot of people like us - the unADApted team think that ecology is one the biggest challenge nowadays. In order to slowdown the ecological impact, lots of people try to change their behaviour to limit that. 
-One of the changement made by some people is to consume less meat (or stop consuming it). Indeed, meat is expensive to produce in term of ressources: 15’415 liters of waters are needed to produce one kilogram of beef! 
-Even tough, several people stopped eating meat for ethical reasons to avoid animal cruelty (industry aims on making money regardless of animals conditions), reducing meat consumption can be an additional way to reduce carbon footprint. 
-Our idea is to detect any link between events and meat consumption evolution. In fact, we would like to measure the impact of campaigns and events toward meat consumption. Thus, we would be able to conclude which kind of campaigns and strategies do have an impact on society.
+Climate change is one of today's biggest challenge. Agriculture plays an important role, notably meat production. Meat can have a high environmental impact and be expensive in terms of resources to produce: it takes 15'415 liters of water for a single kilogram of beef.
+In order to reduce their environmental footprint, people alter their behavior, such as reducing their meat consumption. But there are other reasons also, such as ethical (animal cruelty in factories). Our aim is to first explore the general trend in meat consumption: is it going down ?  We then want to analyze what are the main drivers in change in meat consumption: is it for ethical, environmental, or mostly economical  reasons ? Are campaigns effective ? Our hope is that having a better understanding of reasons for change in meat consumption can lead to better policy to promote a reduction.
+
 
 # Research questions
 - What are the reasons for the variations of meat consumption? Are they ethical (animals cruelty), ecological or economical?
