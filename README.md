@@ -57,9 +57,9 @@ And by delving deeper into a specific country, France:
 - scikit-learn
 - pytrends
 
-# Contributors
+# Contributions:
 
-- Martin BEAUSSART
-- Aslam CADER
-- Vincent CABRINI
-- Nicolas BRANDT
+- Martin BEAUSSART: Gather google trends data for various topics that concerns environment, gather environmental data, exploration of environmental data, set up the website code of the datastory, plots for part 1 and part 3 of the data story, clean the data story appearance.
+- Aslam CADER: Gather meat consumption datasets for Europe and specifics countries, cleaning, merging and exploration of the meat consumption datasets, plots for part 1 and 3 of the data story.
+- Vincent CABRINI:  Exploration of google trend data for animal care topics, regressions and unsupervised learning, plots of data of part 2 of the data story, preparation of final presentation.
+- Nicolas BRANDT:  Exploration, cleaning and analysis of economic data, problem formulation, writing up the text for the data story, preparation of the final presentation.
