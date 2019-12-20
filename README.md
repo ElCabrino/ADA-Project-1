@@ -1,3 +1,7 @@
+# The evolution of meat consumption in Europe
+
+[Link](https://martinbeaussart.github.io/DataStoryMeatConsumption/) to the datastory.
+
 # Abstract
 Climate change is one of today's biggest challenge. Agriculture plays an important role, notably meat production. Meat can have a high environmental impact and be expensive in terms of resources to produce: it takes 15'415 liters of water for a single kilogram of beef.
 In order to reduce their environmental footprint, people alter their behavior, such as reducing their meat consumption. But there are other reasons also, such as ethical (animal cruelty in factories). Our aim is to first explore the general trend in meat consumption: is it going down ?  We then want to analyze what are the main drivers in change in meat consumption: is it for ethical, environmental, or mostly economical  reasons ? Are campaigns effective ? Our hope is that having a better understanding of reasons for change in meat consumption can lead to better policy to promote a reduction.
@@ -11,7 +15,7 @@ And by delving deeper into a specific country, France:
 - Does the price of meat have an impact on meat consumption ? Is there difference between types of meat ? Does unemployment (as a proxy for recessions) ?
 - Can we see an association with global warming related events, such as conferences ?
 
-# Dataset
+# Datasets
 
 - [Oecd meat consumption](https://data.oecd.org/agroutput/meat-consumption.htm)
 
@@ -44,7 +48,7 @@ And by delving deeper into a specific country, France:
 - [Count of climate change related tweets](http://icdc.cen.uni-hamburg.de/omm/omm_twitter.html)
 
 
-# Dependencies
+# Python dependencies
 
 - numpy
 - pandas
